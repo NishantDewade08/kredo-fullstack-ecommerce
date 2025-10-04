@@ -38,20 +38,6 @@ Oder History of User
 Customer Service
 <img width="1919" height="1080" alt="image" src="https://github.com/user-attachments/assets/ef8dee82-3493-4df4-b186-f2170258c609" />
 
-
-**Only sushma@kredo.com can log in as admin, with all routes secured using JWT authentication. The admin can manage users and projects with full CRUD operations and monitor or update order statuses. All features are accessible only after secure login, ensuring complete control and security.**
-
-AdminDashboard
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7aa66829-330a-4d61-8398-d8af7767b4ed" />
-
-UserManagement(Admin)
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/73379120-31ee-4424-9ff7-655eba9e1cca" />
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c798e19a-2daa-4ace-bb5a-95887a031ff6" />
-Active users
-<img width="1915" height="1080" alt="image" src="https://github.com/user-attachments/assets/74060a15-bea2-4513-b910-4dac4c689772" />
-Inactive users
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d6bf0fd9-5f31-47d0-94ca-f5108ef8c13f" />
-
 Product Management(Admin)
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c8cb0b3a-69e0-4d1c-aa7c-b1d129505806" />
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/81e86a13-3bc3-4338-8101-f45ce93e1687" />
